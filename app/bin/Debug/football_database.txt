@@ -1,0 +1,12 @@
+School;Ariol
+School;Garp
+School;Ariol
+School;Kirt
+School;Orlando
+School;Orlean
+School;Alde
+School;Kola
+School;Eron
+Team;Real
+Team;Realem
+Competition;qwerty
